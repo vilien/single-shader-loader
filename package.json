@@ -1,0 +1,20 @@
+{
+  "name": "single-shader-loader",
+  "version": "1.0.1",
+  "description": "Glsl shader loader from webpack",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vilien/single-shader-loader.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "glsl",
+    "shader",
+    "loader"
+  ],
+  "author": "Vilien",
+  "license": "MIT"
+}
